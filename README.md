@@ -1,7 +1,11 @@
 # Full_Adder_Verilog
 
-Devoloped the desctiptive and the testbench modules for a full adder circuit using Icarus verilog
-The simulation was made using ModelSim
+Devoloped the desctiptive and the testbench modules for a full adder circuit 
+
+Tools:
+1- Icarus Verilog
+2- ModelSim
+3- Kicad
 
 Full Adder is the adder that adds three inputs and produces two outputs. The first two inputs are A and B and the third input is an input carry as C-IN. 
 The output carry is designated as C-OUT and the normal output is designated as S which is SUM. A full adder logic is designed in such a manner that can take eight inputs
