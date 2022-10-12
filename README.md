@@ -11,8 +11,8 @@ another 1-bit adder must be used since a 1-bit half-adder does not take a carry-
 
 Schematic:
 
+![image](https://user-images.githubusercontent.com/77931158/195280031-85b8f6d9-95a2-4eb8-ab15-da33a0f411d9.png)
 
-![2560px-Full-adder svg](https://user-images.githubusercontent.com/77931158/195239589-a5b421fa-51c7-42b4-84c6-8b65be8e2325.png)
 
 
 Truth table:
