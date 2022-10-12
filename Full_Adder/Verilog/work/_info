@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Modelsim/modelsim_ase/win32aloem
+vfull_add_tb
+!s110 1665498532
+!i10b 1
+!s100 ;bIWf3STg76CFDnS>eNz63
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`34566THW]HHD5ZRig]5O3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/MA/Projects/Full_Adder/Verilog
+w1665496206
+8E:/MA/Projects/Full_Adder/Verilog/testbench.v
+FE:/MA/Projects/Full_Adder/Verilog/testbench.v
+!i122 83
+L0 2 30
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1665498532.000000
+!s107 E:/MA/Projects/Full_Adder/Verilog/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MA/Projects/Full_Adder/Verilog/testbench.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfull_adder
+!s110 1665498533
+!i10b 1
+!s100 _j<`hDYaAiBcNMULUCj[Z1
+R0
+IDhVP]NUQ0aNHC>MA>E;WG0
+R1
+R2
+w1665497965
+8E:/MA/Projects/Full_Adder/Verilog/Descriptive.v
+FE:/MA/Projects/Full_Adder/Verilog/Descriptive.v
+!i122 84
+L0 4 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/MA/Projects/Full_Adder/Verilog/Descriptive.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MA/Projects/Full_Adder/Verilog/Descriptive.v|
+!i113 1
+R5
+R6
