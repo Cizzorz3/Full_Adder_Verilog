@@ -11,19 +11,39 @@ module full_add_tb();
     d=0;
     #100 
      $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
-    a=1;
+    a=0;
     b=0;
     d=1;
     #100 
      $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
     a=0;
     b=1;
-    d=2;
+    d=0;
+    #100 
+     $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
+    a=0;
+    b=1;
+    d=1;
+    #100 
+     $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
+    a=1;
+    b=0;
+    d=0;
+    #100 
+     $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
+    a=1;
+    b=0;
+    d=1;
     #100 
      $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
     a=1;
     b=1;
-    d=3;
+    d=0;
+    #100 
+     $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
+    a=1;
+    b=1;
+    d=1;
     #100 
      $display("a=%d .b=%d , h_add=%d , h_carry=%d" , a,b,s,c);
     $finish;
